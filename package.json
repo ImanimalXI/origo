@@ -1,0 +1,28 @@
+{
+  "name": "Origo",
+  "version": "0.0.0",
+  "description": "Origo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ImanimalXI@github.com/ImanimalXI/origo.git"
+  },
+  "keywords": [
+    "Mobile",
+    "App",
+    "Scrum",
+    "Poker"
+  ],
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-manifest": "",
+    "grunt-jslint": "",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt": "~0.4.1"
+  },
+  "author": "ImanimalXI",
+  "license": ""
+}
